@@ -2,10 +2,9 @@
 I'm a student in Math
 I'm always trying to learn 
 Big fan of my dogs
-![Texto alternativo](ruta/a/la/imagen.png)
 
-
-![20250319_172244](https://github.com/user-attachments/assets/cf508a3e-951f-4ea2-98d7-7c38b1a4cacb)
+![20250319_172244](https://github.com/user-attachments/assets/0fee5bee-91b5-49fb-9298-d4493fed4870)
+![IMG-20250318-WA0113](https://github.com/user-attachments/assets/7e8744fb-2d34-4651-ac20-b00ba4b310a2)
 
 
 
