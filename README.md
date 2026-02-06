@@ -1,6 +1,11 @@
 ## Hi there 👋
-I'm a student in Math
-I'm always trying to learn 
+- I'm a student in Math
+
+- I'm always trying to learn 
+
+- I’m currently working on my degree work
+
+
 Big fan of my dogs
 ![IMG-20250318-WA0113](https://github.com/user-attachments/assets/7e8744fb-2d34-4651-ac20-b00ba4b310a2)
 
