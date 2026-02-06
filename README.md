@@ -2,8 +2,8 @@
 I'm a student in Math
 I'm always trying to learn 
 Big fan of my dogs
+![20250319_172244(1)](https://github.com/user-attachments/assets/e5ca5c5e-6497-4671-879c-0faa7ed84708)
 
-![20250319_172244](https://github.com/user-attachments/assets/0fee5bee-91b5-49fb-9298-d4493fed4870)
 ![IMG-20250318-WA0113](https://github.com/user-attachments/assets/7e8744fb-2d34-4651-ac20-b00ba4b310a2)
 
 
