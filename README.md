@@ -1,4 +1,4 @@
-#Cristo Tristan Cobos Vera
+# Cristo Tristan Cobos Vera
 ## Hi there 👋
 - I'm a student in Math
 
